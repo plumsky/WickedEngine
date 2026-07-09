@@ -1,0 +1,7 @@
+# build.hxml
+-cp src
+-cp haxe
+-main Main
+-lua out/startup.lua
+-D lua-vanilla
+-debug
